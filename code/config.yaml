@@ -1,0 +1,9 @@
+#  飞书
+APP_ID: cli_a37f4b70c3f7d013
+APP_SECRET: qr2DAnYPaacbM1s1qCNwgdzffaui5Tuy
+APP_ENCRYPT_KEY: E6aXp1pqFW1wslhAfFhGgeYzD6iLTUAD
+APP_VERIFICATION_TOKEN: SCGiQeq94ZEXEqjlQGMMZeGY3DZdabVj
+# 请确保和飞书应用管理平台中的设置一致 
+BOT_NAME: ChatGPT
+# openAI
+OPENAI_KEY: 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
